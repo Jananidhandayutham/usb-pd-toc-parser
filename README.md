@@ -1,7 +1,6 @@
 # 📄 USB PD TOC & Specification Parser
 
-This project extracts the **Table of Contents (TOC)** and **actual section details** from the  
-**"USB Power Delivery Specification" PDF**, then compares them to validate consistency.  
+This project extracts the Table of Contents (TOC) and Actual Sections from the USB Power Delivery Specification PDF, saves them in .jsonl format, and generates a Validation Report in .xlsx format comparing TOC entries with actual document sections.
 
 It outputs:
 - **usb_pd_toc.jsonl** → Parsed TOC entries  
