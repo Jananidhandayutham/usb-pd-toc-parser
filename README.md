@@ -10,11 +10,13 @@ It outputs:
 ---
 
 ## 🚀 Features
-✅ Automatically detects TOC start and end pages  
-✅ Extracts section IDs, titles, levels, and page numbers  
-✅ Matches actual content with TOC  
-✅ Generates JSONL & Excel reports for validation  
-✅ Works on large PDF documents  
+✅Automatically detects TOC start and end pages.
+✅Extracts section IDs, titles, page numbers, and hierarchy.
+✅Saves output in **JSONL** and **Excel** formats.
+✅Compares TOC entries with actual sections to validate:
+  - Title matches
+  - Page matches
+  - Overall match status
 
 ---
 
