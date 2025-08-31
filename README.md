@@ -19,12 +19,12 @@ It outputs:
 ✅ Compares TOC entries with actual sections to validate:  
    - Title matches  
    - Page matches  
-   - Overall match status  
+   - Overall match status
 ✅ Refactored code using dataclasses for TOC and Section entries  
-✅ Full object-oriented design for maintainability  
-✅ Full unit tests for parser, utils, and validator modules  
-✅ Enhanced logging for each step  
-✅ Improved error handling and OCR fallback for scanned pages  
+✅ Full object-oriented design for maintainability
+✅ Full unit tests for parser, utils, and validator modules
+✅ Enhanced logging for each step
+✅ Improved error handling and OCR fallback for scanned pages
 ✅ Code readability improvements, line lengths ≤88 chars for linting  
 
 ---
