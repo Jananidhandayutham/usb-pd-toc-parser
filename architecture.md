@@ -28,9 +28,6 @@ The system processes the USB Power Delivery (PD) Specification PDF, extracts the
 - **Validator Module (validator.py)**
   - **Input:** TOC + Section JSONL files  
   - **Output:** Validation report (.xlsx)  
-- **Logger**
-  - **Input:** Execution steps, errors  
-  - **Output:** Log file (app.log)
 
 **Storage**
 - `usb_pd_toc.jsonl`
@@ -41,4 +38,5 @@ The system processes the USB Power Delivery (PD) Specification PDF, extracts the
 ---
 
 ### 🖼️ Diagram
-![System Architecture Diagram](architecture.png)
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/fdc0ea4e-2e05-4f3e-89e4-0315ccb6ee57" />
+
